@@ -1,19 +1,19 @@
-title: Simply Jekyll
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: "https://simply-jekyll.netlify.app"
+title: shanna.fyi
+name: Shanna
+user_description: GC and such
+notes_url: "https://shanna.fyi"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: Shanna Seigel
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shanna.fyi" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap 
+  - jekyll-feed
+  - jekyll-sitemap
 
 markdown: kramdown
 
