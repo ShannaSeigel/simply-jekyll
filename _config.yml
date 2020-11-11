@@ -1,9 +1,9 @@
 title: shanna.fyi
-name: Shanna
-user_description: GC and such
+name: Shanna Seigel
+user_description: GC and such goes in user description
 notes_url: "https://shanna.fyi"
 profile_pic: /assets/img/profile-picture-garden-200px.png
-favicon: /assets/img/favicon.png
+favicon: /assets/img/profile-picture-garden-200px.png
 copyright_name: Shanna Seigel
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://shanna.fyi" # the base hostname & protocol for your site, e.g. http://example.com
