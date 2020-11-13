@@ -6,7 +6,6 @@ author: Shanna
 
 <small>← [Home](../home-note)</small>
 
-# Linking Your Thinking Course
 Fall/Winter 2020, cohort 2 /
 Designed, led by [Nick Milo](../../zk-public/-nick-milo) / 
 [Linking Your Thinking Concept](linking-your-thinking)
