@@ -1,5 +1,4 @@
 ---
-# layout: note
 title: Shanna's Home Note
 author: Shanna
 ---

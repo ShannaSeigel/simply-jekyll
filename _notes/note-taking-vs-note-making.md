@@ -1,12 +1,10 @@
 ---
-# layout: note
+layout: note
 title: Note Taking vs. Note Making
 author: Shanna
 ---
 
 <small>← <a href="javascript:history.back()">Back</a></small> / <small>← [LYT Workshop Map](-lyt-workshop-map.md)</small>
-
-# Note Taking vs Note Making
 
 The *note taker* may be highlighting or summarizing someone else's work while the *note maker* spends time developing or engaging with their own ideas and opinions.
 
@@ -24,7 +22,7 @@ The *note taker* may be highlighting or summarizing someone else's work while th
 				<li>Enhance creative expression</li>
 			</ul>
 		</td>
-		
+
 		<td width="50%" valign="top">
 			<ul>
 				<li>Involves highlighting or summarizing someone else's ideas</li>
