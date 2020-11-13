@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "18c48f336aa67ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1286ebfd3f5f050",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/-lyt-workshop-map.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "664896fc9553d69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79d72541a07e407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e34c823f4867588",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea5f6bf5a8db1b56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71e9a82cef921952",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fbe11ff9099885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f94444c59fdeac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/-lyt-workshop-map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_notes/-lyt-workshop-map.md"
+  ]
+}

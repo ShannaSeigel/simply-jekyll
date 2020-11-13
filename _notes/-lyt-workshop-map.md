@@ -7,14 +7,12 @@ author: Shanna
 <small>← [Home](../home-note)</small>
 
 Fall/Winter 2020, cohort 2 /
-Designed, led by [Nick Milo](../../zk-public/-nick-milo) / 
+Designed, led by [[-nick-milo]]
 [Linking Your Thinking Concept](linking-your-thinking)
 
 ## Basics
-- [Why do I want to *make* notes?](shanna-as-note-maker)
-- [Note Taking vs. Note Making](note-taking-vs-note-making)
-
-
+- [[note-taking-vs-note-making|notes]]
+- [[Comparison based on accomplishment does not have a baseline]]
 
 
 
